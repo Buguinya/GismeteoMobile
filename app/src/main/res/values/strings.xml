@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GismeteoMobile</string>
+    <string name="Name_of_place">Название города</string>
+    <string name="add">+</string>
+    <string name="feels_like">По ощущению</string>
+    <string name="wind">Ветер</string>
+    <string name="grad_C">%.4s °C</string>
+    <string name="km_per_hour">%.2s км/ч</string>
+    <string name="mm_rt_st">%.4s мм.рт.ст</string>
+    <string name="percent">%.2s %%</string>
+    <string name="pressure">Давление</string>
+    <string name="humidity">Влажность</string>
+    <string name="delete">x</string>
+    <string name="morning">6:00</string>
+    <string name="night">0:00</string>
+    <string name="afternoon">12:00</string>
+    <string name="evening">18:00</string>
+    <string name="ApiKey">a972b8ecfa534cb7b0e155928181811</string>
+    <string name="Mist">Mist</string>
+    <string-array name="place_list">
+        <item>Izhevsk</item>
+        <item>Moscow</item>
+        <item>Saint Petersburg</item>
+        <item>Kazan</item>
+        <item>Sochi</item>
+    </string-array>
+</resources>
